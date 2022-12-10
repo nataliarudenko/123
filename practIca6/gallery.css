@@ -16,16 +16,16 @@ h1{
     font-style: italic;
 }
 h2{
-    font-size: 10px;
+    font-size: 1.5em;
 }
 .img1{
-    font-size: 7px;
+    font-size: 1.05em;
 }
 .img2{
-    font-size: 13px;
+    font-size: 1.95em;
 }
 .img3{
-    font-size: 16.9px;
+    font-size: 2.535em;
 }
 img{
    display: 0px auto;
