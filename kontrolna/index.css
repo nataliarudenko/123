@@ -214,9 +214,6 @@ h1, h2, h3{
     .b4{ 
         width:100%; 
     } 
-    img{ 
-        width:inherit; 
-    } 
     .col-tr-1 { 
     width: 8.33%; 
     } 
