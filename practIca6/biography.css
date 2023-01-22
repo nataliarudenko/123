@@ -9,10 +9,32 @@
     flex-wrap: wrap;
     align-items: center;
 }
-article{
+#info{
     font-size: 120%;
     border: 1px solid;
     background-color: aquamarine;
+}
+#child{
+    font-size: 120%;
+    border: 1px solid;
+    background-color: coral;
+}
+#school{
+    font-size: 120%;
+    border: 1px solid;
+    background-color: darkblue;
+    color: aliceblue;
+}
+#after{
+    font-size: 120%;
+    border: 1px solid;
+    background-color: blueviolet;
+    color: bisque; 
+}
+#univer{
+    font-size: 120%;
+    border: 1px solid;
+    background-color: gold;
 }
  a:link, a:visited
                 {
@@ -33,23 +55,6 @@ article{
                     background-color: yellow;
                     color: black;
                     border: 2px solid;
-                }
-                #one{
-                    background-color: aquamarine;
-                }
-                #two{
-                    background-color: coral;
-                }
-                #three{
-                    background-color: darkblue;
-                    color: aliceblue;
-                }
-                #four{
-                    background-color: blueviolet;
-                    color: bisque;
-                }
-                #five{
-                    background-color: gold;
                 }
                 h1{
                     text-align: center;
